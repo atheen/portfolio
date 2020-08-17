@@ -1,0 +1,25 @@
+.row.content{
+  height:1500px;
+}
+
+.row.top{
+  height:100px;
+}
+.row.top2{
+  height:200px;
+}
+
+.sidenav{
+  background-color:#F7E9A5;
+  height:100%
+}
+
+a{
+  color: rgb(60,60,60);
+}
+
+*{
+  font-family: monospace;
+  font-size: 105%;
+  color: rgb(60,60,60);
+}
